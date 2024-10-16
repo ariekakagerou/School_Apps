@@ -1,0 +1,12 @@
+[2024-10-15 15:03:00] Delete request received
+[2024-10-15 15:03:00] Attempting to delete kd_galery: 88
+[2024-10-15 15:03:00] Database record deleted successfully
+[2024-10-15 15:03:00] Photo file deleted: 670e818fe8c09.jpg
+[2024-10-15 15:07:38] Delete request received
+[2024-10-15 15:07:38] Attempting to delete kd_galery: 86
+[2024-10-15 15:07:38] Database record deleted successfully
+[2024-10-15 15:07:38] Photo file deleted: 670e7b0843dbf.jpg
+[2024-10-15 15:07:54] Delete request received
+[2024-10-15 15:07:54] Attempting to delete kd_galery: 87
+[2024-10-15 15:07:54] Database record deleted successfully
+[2024-10-15 15:07:54] Photo file deleted: 670e7d2eae7d9.jpg
