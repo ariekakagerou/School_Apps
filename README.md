@@ -46,7 +46,7 @@ flutter run
 ```
 
 ### 4. **Akses Akun**  
-Gunakan username `admin` dan password `123456` untuk login ke aplikasi.
+Gunakan username `123456` dan password `123456` untuk login ke aplikasi.
 
 ---
 
